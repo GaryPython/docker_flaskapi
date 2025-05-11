@@ -50,6 +50,13 @@ docker rmi <image_id>
 
 - 指令執行結果
 
+ <img src="images/docker_command.png" alt="作業一執行成果截圖" width="400">
+
+- API執行結果
+
+<img src="images/docker_api_result.png" alt="作業一執行成果截圖" width="400">
+
+
 ## TODO
 
 - [ ] 整合監控：使用 Prometheus + Grafana 建立系統儀表板  
